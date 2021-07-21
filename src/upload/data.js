@@ -833,6 +833,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Prathvi Kothari",
+    role: "DevOps Engineer | BTech Cloud Technology and Information Security",
+    image: "https://avatars.githubusercontent.com/u/61201049?v=4",
+    skills: ['Python', 'Kubernetes', 'DevOps', 'AWS'],
+    link: [
+      "https://github.com/prathvikothari",
+      "https://linkedin.com/in/prathvi-kothari",
+      "https://twitter.com/KothariPrathvi",
+    ],
+  },
 ];
 
 
